@@ -1,0 +1,17 @@
+A punchcard which can manage different tasks
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -s task, --start task
+                        starts the timer for the task
+  -p task / number, --pause task / number
+                        stops the timer for the task
+  -v task / number, --view task / number
+                        view the detailed informations of a task
+  -r task / number, --remove task / number
+                        removes a task from the list
+  -t task / number, --time task / number
+                        total time of a task
+  -x task / number, --status task / number
+                        status of the task
+  -l, --list            show a list of all tasks
